@@ -5,6 +5,7 @@ Full Stack Netflix Clone using React JS & Firebase
 -user authentication using Firebase
 -user can create an account on this Netflix clone website and user can login on this website.
 -Add Loading Animation
+-react tostify for toast notifications
 
 Pages:
 -Home page
